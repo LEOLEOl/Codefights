@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/it_cs/codefights/Codefights-CommonTechniques/main.cpp
+iostream
+-
+vector
+-
+set
+-
+map
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/it_cs/JetBrains/C++/Codefight-Backtrack/main.cpp
+iostream
+-
+stdio.h
+-
+vector
+-
+algorithm
+-
+set
+-
+string
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/it_cs/JetBrains/C++/Codefights-Array/main.cpp
+iostream
+-
+vector
+-
+map
+-
+cstdio
+-
+

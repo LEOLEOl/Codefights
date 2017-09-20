@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/it_cs/codefights/Codefights-Tree/Trie.cpp
+string
+-
+vector
+-
+iostream
+-
+utility
+-
+
+E:/it_cs/codefights/Codefights-Tree/main.cpp
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+set
+-
+map
+-
+
